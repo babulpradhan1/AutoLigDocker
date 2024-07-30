@@ -10,11 +10,11 @@ Using This Tool You No Need To Write Any Command To Use Autodock Vina.
 
 Thank You.
 
+Developed At BICPU, Pondicherry University
+
 ----------------------
 Author Information:
   
   Babul Pradhan
-  
   M.Sc Graduate
-  
   Pondicherry University
